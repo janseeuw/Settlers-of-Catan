@@ -1,0 +1,9 @@
+## Velocity Template.
+<html>
+    <body>
+        <img src='cid:catanLogo'>
+        <h1>Catan online</h1>
+        <p>To activate you user account please click on the link below.</p>
+        <a href='http://stable.team10.vop.tiwi.be/validate.jsp?${userToken}'>Activate account</a>
+    </body>
+</html>
